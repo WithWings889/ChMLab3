@@ -1,0 +1,19 @@
+﻿  Source.cpp
+H:\project_visual\ChMLab3\Source.cpp(15,20): warning C4018: '<': signed/unsigned mismatch
+H:\project_visual\ChMLab3\Source.cpp(46,20): warning C4018: '<': signed/unsigned mismatch
+H:\project_visual\ChMLab3\Source.cpp(48,25): warning C4018: '<': signed/unsigned mismatch
+H:\project_visual\ChMLab3\Source.cpp(66,19): warning C4018: '<': signed/unsigned mismatch
+H:\project_visual\ChMLab3\Source.cpp(67,21): warning C4018: '<': signed/unsigned mismatch
+H:\project_visual\ChMLab3\Source.cpp(64,9): warning C4101: 'temp': unreferenced local variable
+H:\project_visual\ChMLab3\Source.cpp(76,20): warning C4018: '<': signed/unsigned mismatch
+H:\project_visual\ChMLab3\Source.cpp(78,21): warning C4018: '<': signed/unsigned mismatch
+H:\project_visual\ChMLab3\Source.cpp(89,20): warning C4018: '<': signed/unsigned mismatch
+H:\project_visual\ChMLab3\Source.cpp(91,21): warning C4018: '<': signed/unsigned mismatch
+H:\project_visual\ChMLab3\Source.cpp(94,22): warning C4018: '<': signed/unsigned mismatch
+H:\project_visual\ChMLab3\Source.cpp(170,20): warning C4018: '<': signed/unsigned mismatch
+H:\project_visual\ChMLab3\Source.cpp(191,20): warning C4018: '<': signed/unsigned mismatch
+H:\project_visual\ChMLab3\Source.cpp(193,21): warning C4018: '<': signed/unsigned mismatch
+H:\project_visual\ChMLab3\Source.cpp(202,20): warning C4018: '<': signed/unsigned mismatch
+H:\project_visual\ChMLab3\Source.cpp(211,19): warning C4018: '<': signed/unsigned mismatch
+H:\project_visual\ChMLab3\Source.cpp(236,45): warning C4101: 'x': unreferenced local variable
+  ChMLab3.vcxproj -> H:\project_visual\ChMLab3\Debug\ChMLab3.exe
